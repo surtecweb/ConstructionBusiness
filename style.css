@@ -689,6 +689,7 @@ About 2
 }
 .testimonial__thumb img {
     width: 100%;
+    padding-top: 15px;
 }
 .testimonial__thumb {
     margin-right: 40px;
