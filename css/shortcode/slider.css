@@ -50,17 +50,17 @@
 .slider__inner h4 {
     color: #fdfdfd;
     font-family: Open Sans;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 700;
     line-height: 26px;
+    margin-top: 24px;
 }
 .slider__inner h1 {
     color: #fdfdfd;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 800;
     line-height: 55px;
     margin-top: 24px;
-    margin-bottom: 10px;
 }
 .slider__inner p {
     color: #ffffff;
