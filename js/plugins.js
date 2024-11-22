@@ -519,7 +519,7 @@ $(function() {
       $(formMessages).addClass('success');
 
       // Set the message text.
-      $(formMessages).text(response);
+      $(formMessages).text('Email sent successfully.');
 
       // Clear the form.
       $('#contact-form input,#contact-form textarea').val('');
